@@ -8,7 +8,7 @@ The dataset (`HeatingLoad_training.csv`, `HeatingLoad_test_without_HL.csv`) was 
 Due to licensing restrictions, the full datasets are **not included in this repository**.  
 
 To illustrate the structure, sample files (first 5 rows) are provided:  
-- [Sample Training Dataset](./data/sample_training.csv)  
+- [Sample Training Dataset](https://github.com/yun-522/heating-load-prediction/blob/39a966bf3bdc0c0f22aaefc5c26097359873b716/sample_training.csv)  
 - [Sample Test Dataset](https://github.com/yun-522/heating-load-prediction/blob/16695b1b0b2f541a3be62c00352a50fae73f0669/sample_test.csv)  
 
 
