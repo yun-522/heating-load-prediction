@@ -43,7 +43,11 @@ To illustrate the structure, sample files (first 5 rows) are provided:
 ---
 
 ## Repository Structure  
-
+heating-load-prediction/  
+│── [implementation.pdf](./implementation.pdf)   # Code + report (Jupyter Notebook exported to PDF)  
+│── [sample_training.csv](./sample_training.csv) # First 5 rows of training dataset (for illustration)  
+│── [sample_test.csv](./sample_test.csv)         # First 5 rows of test dataset (for illustration)  
+│── README.md                                    # Project description  
 
 ## Key Results  
 - **OLS Regression:** Provided baseline interpretability, but higher RMSE.  
