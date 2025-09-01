@@ -5,7 +5,12 @@ This project was developed as part of **QBUS2820 (Predictive Analytics)** at the
 The task was to build and evaluate multiple **regression models** to predict the **heating energy demand of buildings** using both **structural features** (height, insulation, wall/floor area, glazing) and **environmental factors** (temperature, sunlight, orientation).  
 
 The dataset (`HeatingLoad_training.csv`, `HeatingLoad_test_without_HL.csv`) was provided by the course instructor.  
-Due to licensing restrictions, the full dataset is **not included in this repository**. Only sample rows are included for illustration.  
+Due to licensing restrictions, the full datasets are **not included in this repository**.  
+
+To illustrate the structure, sample files (first 5 rows) are provided:  
+- [Sample Training Dataset](./data/sample_training.csv)  
+- [Sample Test Dataset](./data/sample_test.csv)  
+
 
 ---
 
